@@ -8,3 +8,4 @@ git push origin master
 branch는 master
 
 git clone <url>
+저장소를 복제해 온다.
